@@ -1,5 +1,7 @@
 # Umamusume-AI
-hmm... probably a game made by AI totally?
+
+## 剧本未定，演员暂无.jpg
+
 
 ## Now Planning
 ### 1.Webgal 
@@ -8,4 +10,5 @@ hmm... probably a game made by AI totally?
 语音
 ### 3.Stable diffusion/Comfyui
 立绘/CG
-剧本未定，演员暂无.jpg
+
+hmm... probably a game made by AI totally?
